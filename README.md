@@ -42,6 +42,7 @@ Navigate to the project's root directory in your terminal and run the following 
 
 ```bash
 g++ main.cpp -o PDVPrinterSim.exe -lsfml-graphics -lsfml-window -lsfml-system -lws2_32 -pthread -std=c++17
+```
 
 ### Usage / Uso
 
